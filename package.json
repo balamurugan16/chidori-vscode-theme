@@ -1,6 +1,6 @@
 {
-  "name": "baka",
-  "displayName": "Baka",
+  "name": "chidori",
+  "displayName": "Chidori",
   "description": "Color theme for VS Code",
   "version": "0.0.1",
   "engines": {
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Baka",
+        "label": "Chidori",
         "uiTheme": "vs-dark",
-        "path": "./themes/Baka-color-theme.json"
+        "path": "./themes/Chidori-color-theme.json"
       }
     ]
   }
