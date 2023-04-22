@@ -6,9 +6,22 @@
   "engines": {
     "vscode": "^1.77.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/balamurugan16/chidori-vscode-theme"
+  },
   "categories": [
     "Themes"
   ],
+  "publisher": "Balamurugan D",
+  "keywords": [
+    "theme",
+    "dark theme",
+    "naruto",
+    "chidori",
+    "blue"
+  ],
+  "icon": "icon.jpeg",
   "contributes": {
     "themes": [
       {
